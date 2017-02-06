@@ -1,0 +1,6 @@
+C:\Users\Shubham\Desktop\job related\jobs assessments\c squared\CSquaredAssessment\CSquaredAssessment\bin\Debug\CSquaredAssessment.exe.config
+C:\Users\Shubham\Desktop\job related\jobs assessments\c squared\CSquaredAssessment\CSquaredAssessment\bin\Debug\CSquaredAssessment.exe
+C:\Users\Shubham\Desktop\job related\jobs assessments\c squared\CSquaredAssessment\CSquaredAssessment\bin\Debug\CSquaredAssessment.pdb
+C:\Users\Shubham\Desktop\job related\jobs assessments\c squared\CSquaredAssessment\CSquaredAssessment\obj\Debug\CSquaredAssessment.csprojResolveAssemblyReference.cache
+C:\Users\Shubham\Desktop\job related\jobs assessments\c squared\CSquaredAssessment\CSquaredAssessment\obj\Debug\CSquaredAssessment.exe
+C:\Users\Shubham\Desktop\job related\jobs assessments\c squared\CSquaredAssessment\CSquaredAssessment\obj\Debug\CSquaredAssessment.pdb
